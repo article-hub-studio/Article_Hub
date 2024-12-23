@@ -1,6 +1,3 @@
-if not game:IsLoaded() then
-    game.Loaded:Wait()
-end
 
 if game.PlaceId == 6403373529 or game.PlaceId == 9015014224 or game.PlaceId == 11520107397 then
 if hookmetamethod and getnamecallmethod then
